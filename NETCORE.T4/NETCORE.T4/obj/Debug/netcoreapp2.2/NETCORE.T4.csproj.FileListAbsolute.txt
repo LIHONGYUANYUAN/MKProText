@@ -1,0 +1,11 @@
+F:\ProText\NETCORE.T4\NETCORE.T4\bin\Debug\netcoreapp2.2\NETCORE.T4.deps.json
+F:\ProText\NETCORE.T4\NETCORE.T4\bin\Debug\netcoreapp2.2\NETCORE.T4.runtimeconfig.json
+F:\ProText\NETCORE.T4\NETCORE.T4\bin\Debug\netcoreapp2.2\NETCORE.T4.runtimeconfig.dev.json
+F:\ProText\NETCORE.T4\NETCORE.T4\bin\Debug\netcoreapp2.2\NETCORE.T4.dll
+F:\ProText\NETCORE.T4\NETCORE.T4\bin\Debug\netcoreapp2.2\NETCORE.T4.pdb
+F:\ProText\NETCORE.T4\NETCORE.T4\obj\Debug\netcoreapp2.2\NETCORE.T4.csprojAssemblyReference.cache
+F:\ProText\NETCORE.T4\NETCORE.T4\obj\Debug\netcoreapp2.2\NETCORE.T4.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.T4\NETCORE.T4\obj\Debug\netcoreapp2.2\NETCORE.T4.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.T4\NETCORE.T4\obj\Debug\netcoreapp2.2\NETCORE.T4.AssemblyInfo.cs
+F:\ProText\NETCORE.T4\NETCORE.T4\obj\Debug\netcoreapp2.2\NETCORE.T4.dll
+F:\ProText\NETCORE.T4\NETCORE.T4\obj\Debug\netcoreapp2.2\NETCORE.T4.pdb

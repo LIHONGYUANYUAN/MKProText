@@ -1,0 +1,14 @@
+F:\ProText\NETCORE.EF\NETCORE.EF\bin\Debug\netcoreapp2.2\NETCORE.EF.deps.json
+F:\ProText\NETCORE.EF\NETCORE.EF\bin\Debug\netcoreapp2.2\NETCORE.EF.runtimeconfig.json
+F:\ProText\NETCORE.EF\NETCORE.EF\bin\Debug\netcoreapp2.2\NETCORE.EF.runtimeconfig.dev.json
+F:\ProText\NETCORE.EF\NETCORE.EF\bin\Debug\netcoreapp2.2\NETCORE.EF.dll
+F:\ProText\NETCORE.EF\NETCORE.EF\obj\Debug\netcoreapp2.2\NETCORE.EF.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.EF\NETCORE.EF\obj\Debug\netcoreapp2.2\NETCORE.EF.RazorAssemblyInfo.cache
+F:\ProText\NETCORE.EF\NETCORE.EF\obj\Debug\netcoreapp2.2\NETCORE.EF.RazorAssemblyInfo.cs
+F:\ProText\NETCORE.EF\NETCORE.EF\obj\Debug\netcoreapp2.2\NETCORE.EF.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.EF\NETCORE.EF\obj\Debug\netcoreapp2.2\NETCORE.EF.AssemblyInfo.cs
+F:\ProText\NETCORE.EF\NETCORE.EF\obj\Debug\netcoreapp2.2\NETCORE.EF.RazorTargetAssemblyInfo.cache
+F:\ProText\NETCORE.EF\NETCORE.EF\obj\Debug\netcoreapp2.2\NETCORE.EF.csprojAssemblyReference.cache
+F:\ProText\NETCORE.EF\NETCORE.EF\bin\Debug\netcoreapp2.2\NETCORE.EF.pdb
+F:\ProText\NETCORE.EF\NETCORE.EF\obj\Debug\netcoreapp2.2\NETCORE.EF.dll
+F:\ProText\NETCORE.EF\NETCORE.EF\obj\Debug\netcoreapp2.2\NETCORE.EF.pdb

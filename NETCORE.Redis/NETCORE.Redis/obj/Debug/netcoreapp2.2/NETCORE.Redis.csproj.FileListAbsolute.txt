@@ -1,0 +1,14 @@
+F:\ProText\NETCORE.Redis\NETCORE.Redis\bin\Debug\netcoreapp2.2\NETCORE.Redis.deps.json
+F:\ProText\NETCORE.Redis\NETCORE.Redis\bin\Debug\netcoreapp2.2\NETCORE.Redis.runtimeconfig.json
+F:\ProText\NETCORE.Redis\NETCORE.Redis\bin\Debug\netcoreapp2.2\NETCORE.Redis.runtimeconfig.dev.json
+F:\ProText\NETCORE.Redis\NETCORE.Redis\bin\Debug\netcoreapp2.2\NETCORE.Redis.dll
+F:\ProText\NETCORE.Redis\NETCORE.Redis\bin\Debug\netcoreapp2.2\NETCORE.Redis.pdb
+F:\ProText\NETCORE.Redis\NETCORE.Redis\obj\Debug\netcoreapp2.2\NETCORE.Redis.csprojAssemblyReference.cache
+F:\ProText\NETCORE.Redis\NETCORE.Redis\obj\Debug\netcoreapp2.2\NETCORE.Redis.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.Redis\NETCORE.Redis\obj\Debug\netcoreapp2.2\NETCORE.Redis.RazorAssemblyInfo.cache
+F:\ProText\NETCORE.Redis\NETCORE.Redis\obj\Debug\netcoreapp2.2\NETCORE.Redis.RazorAssemblyInfo.cs
+F:\ProText\NETCORE.Redis\NETCORE.Redis\obj\Debug\netcoreapp2.2\NETCORE.Redis.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.Redis\NETCORE.Redis\obj\Debug\netcoreapp2.2\NETCORE.Redis.AssemblyInfo.cs
+F:\ProText\NETCORE.Redis\NETCORE.Redis\obj\Debug\netcoreapp2.2\NETCORE.Redis.RazorTargetAssemblyInfo.cache
+F:\ProText\NETCORE.Redis\NETCORE.Redis\obj\Debug\netcoreapp2.2\NETCORE.Redis.dll
+F:\ProText\NETCORE.Redis\NETCORE.Redis\obj\Debug\netcoreapp2.2\NETCORE.Redis.pdb

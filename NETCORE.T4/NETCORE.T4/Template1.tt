@@ -1,0 +1,117 @@
+﻿<#@ template language="C#" debug="True" hostspecific="True" #>
+<#@ output extension=".cs" #>
+<#@ assembly name="System.Data" #>
+<#@ assembly name="System.xml" #>
+<#@ assembly name="System.Core"#>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ import namespace="System.Data.SqlClient" #>
+<#@ import namespace="System.Data" #>
+<#@ import namespace="System.Linq"#>
+<#@include file="$(ProjectDir)\Manager.ttinclude"#> 
+<# var manager = Manager.Create(Host, GenerationEnvironment); #>
+<# manager.StartHeader(); #>
+/****************************根据数据库连接生成数据库实体类生成工具，只适合.net 4.0及以上***********************
+ SELECT value FROM ::fn_listextendedproperty(NULL, 'user', 'dbo', 'table','{0}', {1}, DEFAULT)  WHERE name='MS_Description'
+ {0} : 表名
+ {1} : 
+  1、DEFAULT作为参数 
+   查询表的扩展属性MS_Description
+   作为每一个实体类的备注
+  2、 'column'作为参数
+    且完整语句如
+   SELECT value FROM ::fn_listextendedproperty(NULL, 'user', 'dbo', 'table','{0}',DEFAULT, DEFAULT)  WHERE name='MS_Description' and objname='{1}'
+    时，
+    {0}  :表名
+    {1}  :字段名
+   查询的是某个表的字段名的扩展属性MS_Description
+ 注意：数据库的字段字段名是什么样子，属性名，就是什么样子，所以请一定要有命名规范
+*/
+using System;
+namespace DataComandEntity
+{ 
+<# manager.EndBlock(); #>
+<#
+  //数据库连接语句
+  string ConnectionStr="Data Source=******;Initial Catalog=MeterIndex;Persist Security Info=True;User ID=****;Password=****;pooling=true";
+  
+  SqlConnection conn = new SqlConnection(ConnectionStr);
+  
+  conn.Open();
+        
+  System.Data.DataTable schema = conn.GetSchema("TABLES");   //获取数据库架构信息
+        
+  string selectQuery = "select * from @tableName";     //正确的，后面会用Replace替换
+        
+  SqlCommand command = new SqlCommand(selectQuery,conn);
+        
+  SqlDataAdapter sda = new SqlDataAdapter(command);
+        
+  System.Data.DataSet ds = new DataSet();        
+        
+  foreach(System.Data.DataRow row in schema.Rows)
+  {  
+   String strModel="SELECT value FROM ::fn_listextendedproperty(NULL, 'user', 'dbo', 'table','{0}', {1}, DEFAULT)  WHERE name='MS_Description'"; //SQL语句模版
+   String TABLE_NAME=row["TABLE_NAME"].ToString();   //获取表名
+   
+   manager.StartNewFile(TABLE_NAME+".cs");
+   //获取表的扩展属性
+   using(SqlConnection connT1=new SqlConnection(conn.ConnectionString)){
+    connT1.Open();
+    using(SqlCommand cmd=new SqlCommand(string.Format(strModel,TABLE_NAME,"DEFAULT"),connT1)){
+     using(SqlDataReader sdr=cmd.ExecuteReader()){
+      if(sdr.HasRows){       //如果有结果
+       sdr.Read();
+#>
+ /// <summary>
+    /// <#=sdr[0].ToString().Trim()#>
+    /// </summary>
+<#
+      }
+     }
+    }
+   }
+#>
+ public class <#=TABLE_NAME #>
+ {
+<#                     
+                ds.Tables.Clear();
+                
+    command.CommandText = selectQuery.Replace("@tableName",row["TABLE_NAME"].ToString());
+                
+    sda.FillSchema(ds, SchemaType.Mapped, row["TABLE_NAME"].ToString());
+    
+    foreach (DataColumn dc in ds.Tables[0].Columns)       //遍历列名
+    {   
+     String COLUMN_NAME=dc.ColumnName.Trim();
+     using(SqlConnection connT2=new SqlConnection(conn.ConnectionString)){
+      connT2.Open();
+      using(SqlCommand cmd2=new SqlCommand()){
+       //拼接语句
+       cmd2.CommandText=string.Format(strModel,TABLE_NAME,"'column'")+string.Format(" and objname='{0}'",COLUMN_NAME);
+       cmd2.Connection=connT2;
+       using(SqlDataReader sdr2=cmd2.ExecuteReader()){
+        if(sdr2.HasRows){
+         sdr2.Read();
+#>
+  /// <summary>
+  /// <#=sdr2[0].ToString().Trim()#>
+  /// </summary>
+<#
+        }
+       }
+      }
+     }
+#>
+        public <#= dc.DataType.Name #> <#= COLUMN_NAME #> { get; set; }
+<#  
+    }
+#>
+ }
+<#
+   manager.EndBlock();
+  }
+#>
+<# manager.StartFooter(); #>
+}
+<# manager.EndBlock(); #>
+<# manager.Process(true); #>

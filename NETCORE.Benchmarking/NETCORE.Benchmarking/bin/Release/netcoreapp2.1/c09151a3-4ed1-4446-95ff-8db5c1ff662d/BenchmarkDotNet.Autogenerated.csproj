@@ -1,0 +1,33 @@
+<Project ToolsVersion="15.0">
+  <PropertyGroup>
+    <ImportDirectoryBuildProps>false</ImportDirectoryBuildProps>
+    <ImportDirectoryBuildTargets>false</ImportDirectoryBuildTargets>
+  </PropertyGroup>
+
+  <Import Project="Sdk.props" Sdk="Microsoft.NET.Sdk" />
+
+  <PropertyGroup>
+    <AssemblyTitle>c09151a3-4ed1-4446-95ff-8db5c1ff662d</AssemblyTitle>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>x64</PlatformTarget>
+    <AssemblyName>c09151a3-4ed1-4446-95ff-8db5c1ff662d</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <OutputPath>bin\Release</OutputPath>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+    
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="c09151a3-4ed1-4446-95ff-8db5c1ff662d.notcs" Exclude="bin\**;obj\**;**\*.xproj;packages\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="F:\ProText\NETCORE.Benchmarking\NETCORE.Benchmarking\NETCORE.Benchmarking.csproj" />
+  </ItemGroup>
+  
+
+  <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
+</Project>

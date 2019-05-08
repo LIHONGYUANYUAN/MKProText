@@ -1,0 +1,11 @@
+F:\ProText\NETCORE.POLLY\NETCORE.POLLY\bin\Debug\netcoreapp2.1\NETCORE.POLLY.deps.json
+F:\ProText\NETCORE.POLLY\NETCORE.POLLY\bin\Debug\netcoreapp2.1\NETCORE.POLLY.runtimeconfig.json
+F:\ProText\NETCORE.POLLY\NETCORE.POLLY\bin\Debug\netcoreapp2.1\NETCORE.POLLY.runtimeconfig.dev.json
+F:\ProText\NETCORE.POLLY\NETCORE.POLLY\bin\Debug\netcoreapp2.1\NETCORE.POLLY.dll
+F:\ProText\NETCORE.POLLY\NETCORE.POLLY\obj\Debug\netcoreapp2.1\NETCORE.POLLY.csprojAssemblyReference.cache
+F:\ProText\NETCORE.POLLY\NETCORE.POLLY\obj\Debug\netcoreapp2.1\NETCORE.POLLY.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.POLLY\NETCORE.POLLY\obj\Debug\netcoreapp2.1\NETCORE.POLLY.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.POLLY\NETCORE.POLLY\obj\Debug\netcoreapp2.1\NETCORE.POLLY.AssemblyInfo.cs
+F:\ProText\NETCORE.POLLY\NETCORE.POLLY\bin\Debug\netcoreapp2.1\NETCORE.POLLY.pdb
+F:\ProText\NETCORE.POLLY\NETCORE.POLLY\obj\Debug\netcoreapp2.1\NETCORE.POLLY.dll
+F:\ProText\NETCORE.POLLY\NETCORE.POLLY\obj\Debug\netcoreapp2.1\NETCORE.POLLY.pdb

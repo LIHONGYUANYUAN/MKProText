@@ -1,0 +1,16 @@
+﻿08:14:26.517 27 Y - OnPowerEvent ResumeAutomatic
+08:14:27.407 28 Y - OnPowerEvent ResumeSuspend
+08:14:27.996 28 Y - OnPowerEvent PowerStatusChange
+08:14:52.533 25 Y - OnSessionChange SessionId=1 Reason=SessionUnlock
+08:21:56.637 27 Y - OnSessionChange SessionId=1 Reason=SessionLock
+08:38:16.069 24 Y - OnSessionChange SessionId=1 Reason=SessionUnlock
+09:46:22.818 41 Y - OnPowerEvent PowerStatusChange
+11:33:43.010 54 Y - OnSessionChange SessionId=1 Reason=SessionLock
+14:06:04.337 65 Y - OnSessionChange SessionId=1 Reason=SessionUnlock
+16:05:24.486 63 Y - OnSessionChange SessionId=1 Reason=SessionLock
+16:18:29.982 63 Y - OnSessionChange SessionId=1 Reason=SessionUnlock
+16:59:12.598 68 Y - OnSessionChange SessionId=1 Reason=SessionLock
+16:59:12.751 68 Y - OnPowerEvent Suspend
+16:59:36.726 68 Y - OnPowerEvent ResumeAutomatic
+16:59:43.466 68 Y - OnPowerEvent PowerStatusChange
+17:03:03.333 79 Y - OnPowerEvent Suspend

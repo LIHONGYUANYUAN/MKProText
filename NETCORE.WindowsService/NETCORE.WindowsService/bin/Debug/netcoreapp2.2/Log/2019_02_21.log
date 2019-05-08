@@ -1,0 +1,30 @@
+﻿#Software: NETCORE.WindowsService
+#ProcessID: 4748 x64
+#AppDomain: NETCORE.WindowsService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: F:\ProText\NETCORE.WindowsService\NETCORE.WindowsService\bin\Debug\netcoreapp2.2\
+#CurrentDirectory: C:\Windows\system32
+#CommandLine: F:\ProText\NETCORE.WindowsService\NETCORE.WindowsService\bin\Debug\netcoreapp2.2\NETCORE.WindowsService.dll -s
+#ApplicationType: WinForm
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.2.9200.0, MF11-XXZXLHY01/MF11-XXZXLHY01$
+#CPU: 8
+#GC: IsServerGC=True, LatencyMode=Interactive
+#Date: 2019-02-21
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:30:07.620  1 N - NewLife.Core v8.0.2019.0101 Build 2019-01-26 23:22:36 
+16:30:07.623  1 N - 新生命X组件核心库 ©2002-2019 新生命开发团队
+16:30:07.635  1 N - NETCORE.WindowsService v1.0.0.0 Build 2000-01-01 
+16:30:07.635  1 N - NETCORE.WindowsService 
+16:30:21.036 14 Y - OnSessionChange SessionId=1 Reason=SessionLogon
+16:43:24.656  9 Y - OnSessionChange SessionId=1 Reason=SessionLock
+16:48:54.132 18 Y - OnSessionChange SessionId=1 Reason=SessionUnlock
+16:58:11.483 16 Y - OnSessionChange SessionId=1 Reason=SessionLock
+16:58:11.571 16 Y - OnPowerEvent Suspend
+19:23:52.655 22 Y - OnPowerEvent PowerStatusChange
+19:23:53.518 19 Y - OnPowerEvent ResumeAutomatic
+19:23:53.574 19 Y - OnPowerEvent ResumeSuspend
+19:24:00.409 19 Y - OnSessionChange SessionId=1 Reason=SessionUnlock
+19:46:28.508 25 Y - OnPowerEvent Suspend
+19:46:28.625 22 Y - OnSessionChange SessionId=1 Reason=SessionLock

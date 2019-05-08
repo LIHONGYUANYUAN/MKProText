@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETCORE.Dnc.Api.Throttle", "NETCORE.Dnc.Api.Throttle\NETCORE.Dnc.Api.Throttle.csproj", "{8CFF60D3-7A65-4094-BAB2-175144CA4C7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CFF60D3-7A65-4094-BAB2-175144CA4C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CFF60D3-7A65-4094-BAB2-175144CA4C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CFF60D3-7A65-4094-BAB2-175144CA4C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CFF60D3-7A65-4094-BAB2-175144CA4C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D56D047-0129-42CC-A20E-25E31D4A646A}
+	EndGlobalSection
+EndGlobal

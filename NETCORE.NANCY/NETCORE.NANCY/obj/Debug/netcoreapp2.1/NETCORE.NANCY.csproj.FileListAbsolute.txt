@@ -1,0 +1,11 @@
+F:\ProText\NETCORE.NANCY\NETCORE.NANCY\bin\Debug\netcoreapp2.1\NETCORE.NANCY.deps.json
+F:\ProText\NETCORE.NANCY\NETCORE.NANCY\bin\Debug\netcoreapp2.1\NETCORE.NANCY.runtimeconfig.json
+F:\ProText\NETCORE.NANCY\NETCORE.NANCY\bin\Debug\netcoreapp2.1\NETCORE.NANCY.runtimeconfig.dev.json
+F:\ProText\NETCORE.NANCY\NETCORE.NANCY\bin\Debug\netcoreapp2.1\NETCORE.NANCY.dll
+F:\ProText\NETCORE.NANCY\NETCORE.NANCY\obj\Debug\netcoreapp2.1\NETCORE.NANCY.csprojAssemblyReference.cache
+F:\ProText\NETCORE.NANCY\NETCORE.NANCY\obj\Debug\netcoreapp2.1\NETCORE.NANCY.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.NANCY\NETCORE.NANCY\obj\Debug\netcoreapp2.1\NETCORE.NANCY.RazorAssemblyInfo.cache
+F:\ProText\NETCORE.NANCY\NETCORE.NANCY\obj\Debug\netcoreapp2.1\NETCORE.NANCY.RazorAssemblyInfo.cs
+F:\ProText\NETCORE.NANCY\NETCORE.NANCY\obj\Debug\netcoreapp2.1\NETCORE.NANCY.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.NANCY\NETCORE.NANCY\obj\Debug\netcoreapp2.1\NETCORE.NANCY.AssemblyInfo.cs
+F:\ProText\NETCORE.NANCY\NETCORE.NANCY\obj\Debug\netcoreapp2.1\NETCORE.NANCY.RazorTargetAssemblyInfo.cache

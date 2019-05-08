@@ -1,0 +1,14 @@
+F:\ProText\NETCORE.AutoMapper\NETCORE.AutoMapper\bin\Debug\netcoreapp2.1\NETCORE.AutoMapper.deps.json
+F:\ProText\NETCORE.AutoMapper\NETCORE.AutoMapper\bin\Debug\netcoreapp2.1\NETCORE.AutoMapper.runtimeconfig.json
+F:\ProText\NETCORE.AutoMapper\NETCORE.AutoMapper\bin\Debug\netcoreapp2.1\NETCORE.AutoMapper.runtimeconfig.dev.json
+F:\ProText\NETCORE.AutoMapper\NETCORE.AutoMapper\bin\Debug\netcoreapp2.1\NETCORE.AutoMapper.dll
+F:\ProText\NETCORE.AutoMapper\NETCORE.AutoMapper\obj\Debug\netcoreapp2.1\NETCORE.AutoMapper.csprojAssemblyReference.cache
+F:\ProText\NETCORE.AutoMapper\NETCORE.AutoMapper\obj\Debug\netcoreapp2.1\NETCORE.AutoMapper.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.AutoMapper\NETCORE.AutoMapper\obj\Debug\netcoreapp2.1\NETCORE.AutoMapper.RazorAssemblyInfo.cache
+F:\ProText\NETCORE.AutoMapper\NETCORE.AutoMapper\obj\Debug\netcoreapp2.1\NETCORE.AutoMapper.RazorAssemblyInfo.cs
+F:\ProText\NETCORE.AutoMapper\NETCORE.AutoMapper\obj\Debug\netcoreapp2.1\NETCORE.AutoMapper.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.AutoMapper\NETCORE.AutoMapper\obj\Debug\netcoreapp2.1\NETCORE.AutoMapper.AssemblyInfo.cs
+F:\ProText\NETCORE.AutoMapper\NETCORE.AutoMapper\obj\Debug\netcoreapp2.1\NETCORE.AutoMapper.RazorTargetAssemblyInfo.cache
+F:\ProText\NETCORE.AutoMapper\NETCORE.AutoMapper\bin\Debug\netcoreapp2.1\NETCORE.AutoMapper.pdb
+F:\ProText\NETCORE.AutoMapper\NETCORE.AutoMapper\obj\Debug\netcoreapp2.1\NETCORE.AutoMapper.dll
+F:\ProText\NETCORE.AutoMapper\NETCORE.AutoMapper\obj\Debug\netcoreapp2.1\NETCORE.AutoMapper.pdb

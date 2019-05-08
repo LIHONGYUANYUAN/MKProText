@@ -1,0 +1,14 @@
+F:\ProText\NETCORE.TokenBaseAuth\NETCORE.TokenBaseAuth\bin\Debug\netcoreapp2.2\NETCORE.TokenBaseAuth.deps.json
+F:\ProText\NETCORE.TokenBaseAuth\NETCORE.TokenBaseAuth\bin\Debug\netcoreapp2.2\NETCORE.TokenBaseAuth.runtimeconfig.json
+F:\ProText\NETCORE.TokenBaseAuth\NETCORE.TokenBaseAuth\bin\Debug\netcoreapp2.2\NETCORE.TokenBaseAuth.runtimeconfig.dev.json
+F:\ProText\NETCORE.TokenBaseAuth\NETCORE.TokenBaseAuth\bin\Debug\netcoreapp2.2\NETCORE.TokenBaseAuth.dll
+F:\ProText\NETCORE.TokenBaseAuth\NETCORE.TokenBaseAuth\obj\Debug\netcoreapp2.2\NETCORE.TokenBaseAuth.csprojAssemblyReference.cache
+F:\ProText\NETCORE.TokenBaseAuth\NETCORE.TokenBaseAuth\obj\Debug\netcoreapp2.2\NETCORE.TokenBaseAuth.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.TokenBaseAuth\NETCORE.TokenBaseAuth\obj\Debug\netcoreapp2.2\NETCORE.TokenBaseAuth.RazorAssemblyInfo.cache
+F:\ProText\NETCORE.TokenBaseAuth\NETCORE.TokenBaseAuth\obj\Debug\netcoreapp2.2\NETCORE.TokenBaseAuth.RazorAssemblyInfo.cs
+F:\ProText\NETCORE.TokenBaseAuth\NETCORE.TokenBaseAuth\obj\Debug\netcoreapp2.2\NETCORE.TokenBaseAuth.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.TokenBaseAuth\NETCORE.TokenBaseAuth\obj\Debug\netcoreapp2.2\NETCORE.TokenBaseAuth.AssemblyInfo.cs
+F:\ProText\NETCORE.TokenBaseAuth\NETCORE.TokenBaseAuth\obj\Debug\netcoreapp2.2\NETCORE.TokenBaseAuth.RazorTargetAssemblyInfo.cache
+F:\ProText\NETCORE.TokenBaseAuth\NETCORE.TokenBaseAuth\bin\Debug\netcoreapp2.2\NETCORE.TokenBaseAuth.pdb
+F:\ProText\NETCORE.TokenBaseAuth\NETCORE.TokenBaseAuth\obj\Debug\netcoreapp2.2\NETCORE.TokenBaseAuth.dll
+F:\ProText\NETCORE.TokenBaseAuth\NETCORE.TokenBaseAuth\obj\Debug\netcoreapp2.2\NETCORE.TokenBaseAuth.pdb

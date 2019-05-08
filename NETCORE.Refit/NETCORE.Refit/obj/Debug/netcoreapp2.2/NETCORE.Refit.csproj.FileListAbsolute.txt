@@ -1,0 +1,11 @@
+F:\ProText\NETCORE.Refit\NETCORE.Refit\bin\Debug\netcoreapp2.2\NETCORE.Refit.deps.json
+F:\ProText\NETCORE.Refit\NETCORE.Refit\bin\Debug\netcoreapp2.2\NETCORE.Refit.runtimeconfig.json
+F:\ProText\NETCORE.Refit\NETCORE.Refit\bin\Debug\netcoreapp2.2\NETCORE.Refit.runtimeconfig.dev.json
+F:\ProText\NETCORE.Refit\NETCORE.Refit\bin\Debug\netcoreapp2.2\NETCORE.Refit.dll
+F:\ProText\NETCORE.Refit\NETCORE.Refit\obj\Debug\netcoreapp2.2\NETCORE.Refit.csprojAssemblyReference.cache
+F:\ProText\NETCORE.Refit\NETCORE.Refit\obj\Debug\netcoreapp2.2\NETCORE.Refit.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.Refit\NETCORE.Refit\obj\Debug\netcoreapp2.2\NETCORE.Refit.RazorAssemblyInfo.cache
+F:\ProText\NETCORE.Refit\NETCORE.Refit\obj\Debug\netcoreapp2.2\NETCORE.Refit.RazorAssemblyInfo.cs
+F:\ProText\NETCORE.Refit\NETCORE.Refit\obj\Debug\netcoreapp2.2\NETCORE.Refit.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.Refit\NETCORE.Refit\obj\Debug\netcoreapp2.2\NETCORE.Refit.AssemblyInfo.cs
+F:\ProText\NETCORE.Refit\NETCORE.Refit\obj\Debug\netcoreapp2.2\NETCORE.Refit.RazorTargetAssemblyInfo.cache

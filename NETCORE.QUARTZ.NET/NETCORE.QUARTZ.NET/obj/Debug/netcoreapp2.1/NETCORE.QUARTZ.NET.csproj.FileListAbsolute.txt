@@ -1,0 +1,14 @@
+F:\ProText\NETCORE.QUARTZ.NET\NETCORE.QUARTZ.NET\bin\Debug\netcoreapp2.1\NETCORE.QUARTZ.NET.deps.json
+F:\ProText\NETCORE.QUARTZ.NET\NETCORE.QUARTZ.NET\bin\Debug\netcoreapp2.1\NETCORE.QUARTZ.NET.runtimeconfig.json
+F:\ProText\NETCORE.QUARTZ.NET\NETCORE.QUARTZ.NET\bin\Debug\netcoreapp2.1\NETCORE.QUARTZ.NET.runtimeconfig.dev.json
+F:\ProText\NETCORE.QUARTZ.NET\NETCORE.QUARTZ.NET\bin\Debug\netcoreapp2.1\NETCORE.QUARTZ.NET.dll
+F:\ProText\NETCORE.QUARTZ.NET\NETCORE.QUARTZ.NET\obj\Debug\netcoreapp2.1\NETCORE.QUARTZ.NET.csprojAssemblyReference.cache
+F:\ProText\NETCORE.QUARTZ.NET\NETCORE.QUARTZ.NET\obj\Debug\netcoreapp2.1\NETCORE.QUARTZ.NET.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.QUARTZ.NET\NETCORE.QUARTZ.NET\obj\Debug\netcoreapp2.1\NETCORE.QUARTZ.NET.RazorAssemblyInfo.cache
+F:\ProText\NETCORE.QUARTZ.NET\NETCORE.QUARTZ.NET\obj\Debug\netcoreapp2.1\NETCORE.QUARTZ.NET.RazorAssemblyInfo.cs
+F:\ProText\NETCORE.QUARTZ.NET\NETCORE.QUARTZ.NET\obj\Debug\netcoreapp2.1\NETCORE.QUARTZ.NET.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.QUARTZ.NET\NETCORE.QUARTZ.NET\obj\Debug\netcoreapp2.1\NETCORE.QUARTZ.NET.AssemblyInfo.cs
+F:\ProText\NETCORE.QUARTZ.NET\NETCORE.QUARTZ.NET\obj\Debug\netcoreapp2.1\NETCORE.QUARTZ.NET.RazorTargetAssemblyInfo.cache
+F:\ProText\NETCORE.QUARTZ.NET\NETCORE.QUARTZ.NET\bin\Debug\netcoreapp2.1\NETCORE.QUARTZ.NET.pdb
+F:\ProText\NETCORE.QUARTZ.NET\NETCORE.QUARTZ.NET\obj\Debug\netcoreapp2.1\NETCORE.QUARTZ.NET.dll
+F:\ProText\NETCORE.QUARTZ.NET\NETCORE.QUARTZ.NET\obj\Debug\netcoreapp2.1\NETCORE.QUARTZ.NET.pdb

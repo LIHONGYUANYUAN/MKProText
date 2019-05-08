@@ -1,0 +1,14 @@
+F:\ProText\NETCORE.HttpMessageHandler\NETCORE.HttpMessageHandler\bin\Debug\netcoreapp2.1\NETCORE.HttpMessageHandler.deps.json
+F:\ProText\NETCORE.HttpMessageHandler\NETCORE.HttpMessageHandler\bin\Debug\netcoreapp2.1\NETCORE.HttpMessageHandler.runtimeconfig.json
+F:\ProText\NETCORE.HttpMessageHandler\NETCORE.HttpMessageHandler\bin\Debug\netcoreapp2.1\NETCORE.HttpMessageHandler.runtimeconfig.dev.json
+F:\ProText\NETCORE.HttpMessageHandler\NETCORE.HttpMessageHandler\bin\Debug\netcoreapp2.1\NETCORE.HttpMessageHandler.dll
+F:\ProText\NETCORE.HttpMessageHandler\NETCORE.HttpMessageHandler\bin\Debug\netcoreapp2.1\NETCORE.HttpMessageHandler.pdb
+F:\ProText\NETCORE.HttpMessageHandler\NETCORE.HttpMessageHandler\obj\Debug\netcoreapp2.1\NETCORE.HttpMessageHandler.csprojAssemblyReference.cache
+F:\ProText\NETCORE.HttpMessageHandler\NETCORE.HttpMessageHandler\obj\Debug\netcoreapp2.1\NETCORE.HttpMessageHandler.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.HttpMessageHandler\NETCORE.HttpMessageHandler\obj\Debug\netcoreapp2.1\NETCORE.HttpMessageHandler.RazorAssemblyInfo.cache
+F:\ProText\NETCORE.HttpMessageHandler\NETCORE.HttpMessageHandler\obj\Debug\netcoreapp2.1\NETCORE.HttpMessageHandler.RazorAssemblyInfo.cs
+F:\ProText\NETCORE.HttpMessageHandler\NETCORE.HttpMessageHandler\obj\Debug\netcoreapp2.1\NETCORE.HttpMessageHandler.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.HttpMessageHandler\NETCORE.HttpMessageHandler\obj\Debug\netcoreapp2.1\NETCORE.HttpMessageHandler.AssemblyInfo.cs
+F:\ProText\NETCORE.HttpMessageHandler\NETCORE.HttpMessageHandler\obj\Debug\netcoreapp2.1\NETCORE.HttpMessageHandler.RazorTargetAssemblyInfo.cache
+F:\ProText\NETCORE.HttpMessageHandler\NETCORE.HttpMessageHandler\obj\Debug\netcoreapp2.1\NETCORE.HttpMessageHandler.dll
+F:\ProText\NETCORE.HttpMessageHandler\NETCORE.HttpMessageHandler\obj\Debug\netcoreapp2.1\NETCORE.HttpMessageHandler.pdb

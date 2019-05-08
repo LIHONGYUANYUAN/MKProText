@@ -1,0 +1,11 @@
+F:\ProText\NETCORE.DI\NETCORE.DI\bin\Debug\netcoreapp2.1\NETCORE.DI.deps.json
+F:\ProText\NETCORE.DI\NETCORE.DI\bin\Debug\netcoreapp2.1\NETCORE.DI.runtimeconfig.json
+F:\ProText\NETCORE.DI\NETCORE.DI\bin\Debug\netcoreapp2.1\NETCORE.DI.runtimeconfig.dev.json
+F:\ProText\NETCORE.DI\NETCORE.DI\bin\Debug\netcoreapp2.1\NETCORE.DI.dll
+F:\ProText\NETCORE.DI\NETCORE.DI\obj\Debug\netcoreapp2.1\NETCORE.DI.csprojAssemblyReference.cache
+F:\ProText\NETCORE.DI\NETCORE.DI\obj\Debug\netcoreapp2.1\NETCORE.DI.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.DI\NETCORE.DI\obj\Debug\netcoreapp2.1\NETCORE.DI.RazorAssemblyInfo.cache
+F:\ProText\NETCORE.DI\NETCORE.DI\obj\Debug\netcoreapp2.1\NETCORE.DI.RazorAssemblyInfo.cs
+F:\ProText\NETCORE.DI\NETCORE.DI\obj\Debug\netcoreapp2.1\NETCORE.DI.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.DI\NETCORE.DI\obj\Debug\netcoreapp2.1\NETCORE.DI.AssemblyInfo.cs
+F:\ProText\NETCORE.DI\NETCORE.DI\obj\Debug\netcoreapp2.1\NETCORE.DI.RazorTargetAssemblyInfo.cache

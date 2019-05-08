@@ -1,0 +1,11 @@
+F:\ProText\NETCORE.Benchmarking\NETCORE.Benchmarking\bin\Debug\netcoreapp2.1\NETCORE.Benchmarking.deps.json
+F:\ProText\NETCORE.Benchmarking\NETCORE.Benchmarking\bin\Debug\netcoreapp2.1\NETCORE.Benchmarking.runtimeconfig.json
+F:\ProText\NETCORE.Benchmarking\NETCORE.Benchmarking\bin\Debug\netcoreapp2.1\NETCORE.Benchmarking.runtimeconfig.dev.json
+F:\ProText\NETCORE.Benchmarking\NETCORE.Benchmarking\bin\Debug\netcoreapp2.1\NETCORE.Benchmarking.dll
+F:\ProText\NETCORE.Benchmarking\NETCORE.Benchmarking\obj\Debug\netcoreapp2.1\NETCORE.Benchmarking.csprojAssemblyReference.cache
+F:\ProText\NETCORE.Benchmarking\NETCORE.Benchmarking\obj\Debug\netcoreapp2.1\NETCORE.Benchmarking.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.Benchmarking\NETCORE.Benchmarking\obj\Debug\netcoreapp2.1\NETCORE.Benchmarking.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.Benchmarking\NETCORE.Benchmarking\obj\Debug\netcoreapp2.1\NETCORE.Benchmarking.AssemblyInfo.cs
+F:\ProText\NETCORE.Benchmarking\NETCORE.Benchmarking\bin\Debug\netcoreapp2.1\NETCORE.Benchmarking.pdb
+F:\ProText\NETCORE.Benchmarking\NETCORE.Benchmarking\obj\Debug\netcoreapp2.1\NETCORE.Benchmarking.dll
+F:\ProText\NETCORE.Benchmarking\NETCORE.Benchmarking\obj\Debug\netcoreapp2.1\NETCORE.Benchmarking.pdb

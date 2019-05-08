@@ -1,0 +1,11 @@
+F:\ProText\NETCORE.ThoughtWorks.QRCode\NETCORE.ThoughtWorks.QRCode\bin\Debug\netcoreapp2.2\NETCORE.ThoughtWorks.QRCode.deps.json
+F:\ProText\NETCORE.ThoughtWorks.QRCode\NETCORE.ThoughtWorks.QRCode\bin\Debug\netcoreapp2.2\NETCORE.ThoughtWorks.QRCode.runtimeconfig.json
+F:\ProText\NETCORE.ThoughtWorks.QRCode\NETCORE.ThoughtWorks.QRCode\bin\Debug\netcoreapp2.2\NETCORE.ThoughtWorks.QRCode.runtimeconfig.dev.json
+F:\ProText\NETCORE.ThoughtWorks.QRCode\NETCORE.ThoughtWorks.QRCode\bin\Debug\netcoreapp2.2\NETCORE.ThoughtWorks.QRCode.dll
+F:\ProText\NETCORE.ThoughtWorks.QRCode\NETCORE.ThoughtWorks.QRCode\obj\Debug\netcoreapp2.2\NETCORE.ThoughtWorks.QRCode.csprojAssemblyReference.cache
+F:\ProText\NETCORE.ThoughtWorks.QRCode\NETCORE.ThoughtWorks.QRCode\obj\Debug\netcoreapp2.2\NETCORE.ThoughtWorks.QRCode.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.ThoughtWorks.QRCode\NETCORE.ThoughtWorks.QRCode\obj\Debug\netcoreapp2.2\NETCORE.ThoughtWorks.QRCode.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.ThoughtWorks.QRCode\NETCORE.ThoughtWorks.QRCode\obj\Debug\netcoreapp2.2\NETCORE.ThoughtWorks.QRCode.AssemblyInfo.cs
+F:\ProText\NETCORE.ThoughtWorks.QRCode\NETCORE.ThoughtWorks.QRCode\bin\Debug\netcoreapp2.2\NETCORE.ThoughtWorks.QRCode.pdb
+F:\ProText\NETCORE.ThoughtWorks.QRCode\NETCORE.ThoughtWorks.QRCode\obj\Debug\netcoreapp2.2\NETCORE.ThoughtWorks.QRCode.dll
+F:\ProText\NETCORE.ThoughtWorks.QRCode\NETCORE.ThoughtWorks.QRCode\obj\Debug\netcoreapp2.2\NETCORE.ThoughtWorks.QRCode.pdb

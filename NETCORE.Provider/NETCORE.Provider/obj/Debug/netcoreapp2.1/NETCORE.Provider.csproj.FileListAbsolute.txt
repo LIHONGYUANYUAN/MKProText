@@ -1,0 +1,14 @@
+F:\ProText\NETCORE.Provider\NETCORE.Provider\bin\Debug\netcoreapp2.1\NETCORE.Provider.deps.json
+F:\ProText\NETCORE.Provider\NETCORE.Provider\bin\Debug\netcoreapp2.1\NETCORE.Provider.runtimeconfig.json
+F:\ProText\NETCORE.Provider\NETCORE.Provider\bin\Debug\netcoreapp2.1\NETCORE.Provider.runtimeconfig.dev.json
+F:\ProText\NETCORE.Provider\NETCORE.Provider\bin\Debug\netcoreapp2.1\NETCORE.Provider.dll
+F:\ProText\NETCORE.Provider\NETCORE.Provider\obj\Debug\netcoreapp2.1\NETCORE.Provider.csprojAssemblyReference.cache
+F:\ProText\NETCORE.Provider\NETCORE.Provider\obj\Debug\netcoreapp2.1\NETCORE.Provider.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.Provider\NETCORE.Provider\obj\Debug\netcoreapp2.1\NETCORE.Provider.RazorAssemblyInfo.cache
+F:\ProText\NETCORE.Provider\NETCORE.Provider\obj\Debug\netcoreapp2.1\NETCORE.Provider.RazorAssemblyInfo.cs
+F:\ProText\NETCORE.Provider\NETCORE.Provider\obj\Debug\netcoreapp2.1\NETCORE.Provider.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.Provider\NETCORE.Provider\obj\Debug\netcoreapp2.1\NETCORE.Provider.AssemblyInfo.cs
+F:\ProText\NETCORE.Provider\NETCORE.Provider\obj\Debug\netcoreapp2.1\NETCORE.Provider.RazorTargetAssemblyInfo.cache
+F:\ProText\NETCORE.Provider\NETCORE.Provider\bin\Debug\netcoreapp2.1\NETCORE.Provider.pdb
+F:\ProText\NETCORE.Provider\NETCORE.Provider\obj\Debug\netcoreapp2.1\NETCORE.Provider.dll
+F:\ProText\NETCORE.Provider\NETCORE.Provider\obj\Debug\netcoreapp2.1\NETCORE.Provider.pdb

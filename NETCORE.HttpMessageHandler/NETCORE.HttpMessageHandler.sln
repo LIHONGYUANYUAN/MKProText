@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETCORE.HttpMessageHandler", "NETCORE.HttpMessageHandler\NETCORE.HttpMessageHandler.csproj", "{4F2239AA-F8D3-4648-A096-A92B85A7E9FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F2239AA-F8D3-4648-A096-A92B85A7E9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2239AA-F8D3-4648-A096-A92B85A7E9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2239AA-F8D3-4648-A096-A92B85A7E9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2239AA-F8D3-4648-A096-A92B85A7E9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90C015DD-2457-48E0-AA93-4BA1A2F47FC5}
+	EndGlobalSection
+EndGlobal

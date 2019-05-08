@@ -1,0 +1,15 @@
+F:\ProText\NETCORE.Versioning\NETCORE.Versioning\bin\Debug\netcoreapp2.2\NETCORE.Versioning.deps.json
+F:\ProText\NETCORE.Versioning\NETCORE.Versioning\bin\Debug\netcoreapp2.2\NETCORE.Versioning.runtimeconfig.json
+F:\ProText\NETCORE.Versioning\NETCORE.Versioning\bin\Debug\netcoreapp2.2\NETCORE.Versioning.runtimeconfig.dev.json
+F:\ProText\NETCORE.Versioning\NETCORE.Versioning\bin\Debug\netcoreapp2.2\NETCORE.Versioning.dll
+F:\ProText\NETCORE.Versioning\NETCORE.Versioning\bin\Debug\netcoreapp2.2\NETCORE.Versioning.pdb
+F:\ProText\NETCORE.Versioning\NETCORE.Versioning\obj\Debug\netcoreapp2.2\NETCORE.Versioning.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.Versioning\NETCORE.Versioning\obj\Debug\netcoreapp2.2\NETCORE.Versioning.RazorAssemblyInfo.cache
+F:\ProText\NETCORE.Versioning\NETCORE.Versioning\obj\Debug\netcoreapp2.2\NETCORE.Versioning.RazorAssemblyInfo.cs
+F:\ProText\NETCORE.Versioning\NETCORE.Versioning\obj\Debug\netcoreapp2.2\NETCORE.Versioning.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.Versioning\NETCORE.Versioning\obj\Debug\netcoreapp2.2\NETCORE.Versioning.AssemblyInfo.cs
+F:\ProText\NETCORE.Versioning\NETCORE.Versioning\obj\Debug\netcoreapp2.2\NETCORE.Versioning.RazorTargetAssemblyInfo.cache
+F:\ProText\NETCORE.Versioning\NETCORE.Versioning\obj\Debug\netcoreapp2.2\NETCORE.Versioning.dll
+F:\ProText\NETCORE.Versioning\NETCORE.Versioning\obj\Debug\netcoreapp2.2\NETCORE.Versioning.pdb
+F:\ProText\NETCORE.Versioning\NETCORE.Versioning\bin\Debug\netcoreapp2.2\NETCORE.swagger.xml
+F:\ProText\NETCORE.Versioning\NETCORE.Versioning\obj\Debug\netcoreapp2.2\NETCORE.Versioning.csprojAssemblyReference.cache

@@ -1,0 +1,104 @@
+﻿#Software: NETCORE.WindowsService
+#ProcessID: 11076 x64
+#AppDomain: NETCORE.WindowsService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: F:\ProText\NETCORE.WindowsService\NETCORE.WindowsService\bin\Debug\netcoreapp2.2\
+#CurrentDirectory: F:\ProText\NETCORE.WindowsService\NETCORE.WindowsService
+#CommandLine: F:\ProText\NETCORE.WindowsService\NETCORE.WindowsService\bin\Debug\netcoreapp2.2\NETCORE.WindowsService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.2.9200.0, MF11-XXZXLHY01/lihongyuan
+#CPU: 8
+#GC: IsServerGC=True, LatencyMode=Interactive
+#Date: 2019-02-15
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+09:50:50.204  1 N - NewLife.Core v8.0.2019.0101 Build 2019-01-26 23:22:36 
+09:50:50.206  1 N - 新生命X组件核心库 ©2002-2019 新生命开发团队
+09:50:50.210  1 N - NETCORE.WindowsService v1.0.0.0 Build 2000-01-01 
+09:50:50.210  1 N - NETCORE.WindowsService 
+09:50:50.210  1 N - Setting的配置文件Config\Core.config 不存在，准备用默认配置覆盖！
+09:50:50.245  1 N - Setting的配置文件Config\Agent.config 不存在，准备用默认配置覆盖！
+09:50:58.235  1 N - 在win7/win2008及更高系统中，可能需要管理员权限执行才能安装/卸载服务。
+09:50:58.251  1 N - RunCmd C:\Windows\system32\sc.exe create TestAgent BinPath= "dotnet.exe F:\ProText\NETCORE.WindowsService\NETCORE.WindowsService\bin\Debug\netcoreapp2.2\NETCORE.WindowsService.dll -s" start= auto DisplayName= "Agent测试服务"
+09:51:00.140  1 N - [SC] CreateService 成功
+09:51:00.141  1 N - RunCmd C:\Windows\system32\sc.exe description TestAgent "Agent测试服务的描述信息！"
+09:51:01.292  1 N - [SC] ChangeServiceConfig2 成功
+
+#Software: NETCORE.WindowsService
+#ProcessID: 19272 x64
+#AppDomain: NETCORE.WindowsService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: F:\ProText\NETCORE.WindowsService\NETCORE.WindowsService\bin\Debug\netcoreapp2.2\
+#CurrentDirectory: C:\Windows\system32
+#CommandLine: F:\ProText\NETCORE.WindowsService\NETCORE.WindowsService\bin\Debug\netcoreapp2.2\NETCORE.WindowsService.dll -s
+#ApplicationType: WinForm
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.2.9200.0, MF11-XXZXLHY01/MF11-XXZXLHY01$
+#CPU: 8
+#GC: IsServerGC=True, LatencyMode=Interactive
+#Date: 2019-02-15
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+09:51:11.628  1 N - NewLife.Core v8.0.2019.0101 Build 2019-01-26 23:22:36 
+09:51:11.629  1 N - 新生命X组件核心库 ©2002-2019 新生命开发团队
+09:51:11.633  1 N - NETCORE.WindowsService v1.0.0.0 Build 2000-01-01 
+09:51:11.633  1 N - NETCORE.WindowsService 
+09:52:49.827  1 N - NewLife.Setting的配置文件F:\ProText\NETCORE.WindowsService\NETCORE.WindowsService\bin\Debug\netcoreapp2.2\Config\Core.config有更新，重新加载配置！
+09:52:49.827  1 N - NewLife.Agent.Setting的配置文件F:\ProText\NETCORE.WindowsService\NETCORE.WindowsService\bin\Debug\netcoreapp2.2\Config\Agent.config有更新，重新加载配置！
+09:53:14.735 15 Y - OnPowerEvent PowerStatusChange
+10:12:25.974  1 N - RunCmd net start TestAgent
+10:12:27.283  1 N - 服务正在启动或停止中，请稍候片刻后再试一次。
+10:12:29.017  1 N - 在win7/win2008及更高系统中，可能需要管理员权限执行才能安装/卸载服务。
+10:12:29.018  1 N - RunCmd net stop TestAgent
+10:12:30.103  1 N - 服务正在启动或停止中，请稍候片刻后再试一次。
+10:12:30.106  1 N - RunCmd C:\Windows\system32\sc.exe Delete TestAgent
+10:12:31.079  1 N - [SC] DeleteService 成功
+10:12:31.443  1 N - 在win7/win2008及更高系统中，可能需要管理员权限执行才能安装/卸载服务。
+10:12:31.447  1 N - RunCmd net stop TestAgent
+10:12:32.591  1 N - 服务名无效。
+
+请键入 NET HELPMSG 2185 以获得更多的帮助。
+10:12:32.593  1 N - RunCmd C:\Windows\system32\sc.exe Delete TestAgent
+10:12:33.641  1 N - [SC] OpenService 失败 1060:
+
+指定的服务未安装。
+10:12:42.289  1 N - 在win7/win2008及更高系统中，可能需要管理员权限执行才能安装/卸载服务。
+10:12:42.296  1 N - RunCmd net stop TestAgent
+10:12:43.533  1 N - 服务名无效。
+
+请键入 NET HELPMSG 2185 以获得更多的帮助。
+10:12:43.535  1 N - RunCmd C:\Windows\system32\sc.exe Delete TestAgent
+10:12:44.531  1 N - [SC] OpenService 失败 1060:
+
+指定的服务未安装。
+10:12:46.130  1 N - RunCmd net start TestAgent
+10:12:47.373  1 N - 服务名无效。
+
+请键入 NET HELPMSG 2185 以获得更多的帮助。
+10:13:12.708 16 Y - OnSessionChange SessionId=1 Reason=SessionLogoff
+
+#Software: NETCORE.WindowsService
+#ProcessID: 13480 x64
+#AppDomain: NETCORE.WindowsService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: F:\ProText\NETCORE.WindowsService\NETCORE.WindowsService\bin\Debug\netcoreapp2.2\
+#CurrentDirectory: F:\ProText\NETCORE.WindowsService\NETCORE.WindowsService
+#CommandLine: F:\ProText\NETCORE.WindowsService\NETCORE.WindowsService\bin\Debug\netcoreapp2.2\NETCORE.WindowsService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.2.9200.0, MF11-XXZXLHY01/lihongyuan
+#CPU: 8
+#GC: IsServerGC=True, LatencyMode=Interactive
+#Date: 2019-02-15
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+10:31:02.750  1 N - NewLife.Core v8.0.2019.0101 Build 2019-01-26 23:22:36 
+10:31:02.752  1 N - 新生命X组件核心库 ©2002-2019 新生命开发团队
+10:31:02.765  1 N - NETCORE.WindowsService v1.0.0.0 Build 2000-01-01 
+10:31:02.765  1 N - NETCORE.WindowsService 
+10:31:47.996  1 N - 在win7/win2008及更高系统中，可能需要管理员权限执行才能安装/卸载服务。
+10:31:48.009  1 N - RunCmd C:\Windows\system32\sc.exe create TestAgent BinPath= "dotnet.exe F:\ProText\NETCORE.WindowsService\NETCORE.WindowsService\bin\Debug\netcoreapp2.2\NETCORE.WindowsService.dll -s" start= auto DisplayName= "Agent测试服务"
+10:31:49.429  1 N - [SC] CreateService 成功
+10:31:49.430  1 N - RunCmd C:\Windows\system32\sc.exe description TestAgent "Agent测试服务的描述信息！"
+10:31:50.464  1 N - [SC] ChangeServiceConfig2 成功

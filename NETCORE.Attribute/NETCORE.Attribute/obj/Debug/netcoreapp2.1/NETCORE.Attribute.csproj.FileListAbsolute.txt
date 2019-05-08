@@ -1,0 +1,11 @@
+F:\ProText\NETCORE.Attribute\NETCORE.Attribute\bin\Debug\netcoreapp2.1\NETCORE.Attribute.deps.json
+F:\ProText\NETCORE.Attribute\NETCORE.Attribute\bin\Debug\netcoreapp2.1\NETCORE.Attribute.runtimeconfig.json
+F:\ProText\NETCORE.Attribute\NETCORE.Attribute\bin\Debug\netcoreapp2.1\NETCORE.Attribute.runtimeconfig.dev.json
+F:\ProText\NETCORE.Attribute\NETCORE.Attribute\bin\Debug\netcoreapp2.1\NETCORE.Attribute.dll
+F:\ProText\NETCORE.Attribute\NETCORE.Attribute\bin\Debug\netcoreapp2.1\NETCORE.Attribute.pdb
+F:\ProText\NETCORE.Attribute\NETCORE.Attribute\obj\Debug\netcoreapp2.1\NETCORE.Attribute.csprojAssemblyReference.cache
+F:\ProText\NETCORE.Attribute\NETCORE.Attribute\obj\Debug\netcoreapp2.1\NETCORE.Attribute.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.Attribute\NETCORE.Attribute\obj\Debug\netcoreapp2.1\NETCORE.Attribute.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.Attribute\NETCORE.Attribute\obj\Debug\netcoreapp2.1\NETCORE.Attribute.AssemblyInfo.cs
+F:\ProText\NETCORE.Attribute\NETCORE.Attribute\obj\Debug\netcoreapp2.1\NETCORE.Attribute.dll
+F:\ProText\NETCORE.Attribute\NETCORE.Attribute\obj\Debug\netcoreapp2.1\NETCORE.Attribute.pdb

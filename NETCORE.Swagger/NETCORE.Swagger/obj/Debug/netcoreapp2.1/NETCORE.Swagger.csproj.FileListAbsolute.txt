@@ -1,0 +1,15 @@
+F:\ProText\NETCORE.Swagger\NETCORE.Swagger\bin\Debug\netcoreapp2.1\NETCORE.Swagger.deps.json
+F:\ProText\NETCORE.Swagger\NETCORE.Swagger\bin\Debug\netcoreapp2.1\NETCORE.Swagger.runtimeconfig.json
+F:\ProText\NETCORE.Swagger\NETCORE.Swagger\bin\Debug\netcoreapp2.1\NETCORE.Swagger.runtimeconfig.dev.json
+F:\ProText\NETCORE.Swagger\NETCORE.Swagger\bin\Debug\netcoreapp2.1\NETCORE.Swagger.dll
+F:\ProText\NETCORE.Swagger\NETCORE.Swagger\obj\Debug\netcoreapp2.1\NETCORE.Swagger.csprojAssemblyReference.cache
+F:\ProText\NETCORE.Swagger\NETCORE.Swagger\obj\Debug\netcoreapp2.1\NETCORE.Swagger.csproj.CoreCompileInputs.cache
+F:\ProText\NETCORE.Swagger\NETCORE.Swagger\obj\Debug\netcoreapp2.1\NETCORE.Swagger.RazorAssemblyInfo.cache
+F:\ProText\NETCORE.Swagger\NETCORE.Swagger\obj\Debug\netcoreapp2.1\NETCORE.Swagger.RazorAssemblyInfo.cs
+F:\ProText\NETCORE.Swagger\NETCORE.Swagger\obj\Debug\netcoreapp2.1\NETCORE.Swagger.AssemblyInfoInputs.cache
+F:\ProText\NETCORE.Swagger\NETCORE.Swagger\obj\Debug\netcoreapp2.1\NETCORE.Swagger.AssemblyInfo.cs
+F:\ProText\NETCORE.Swagger\NETCORE.Swagger\obj\Debug\netcoreapp2.1\NETCORE.Swagger.RazorTargetAssemblyInfo.cache
+F:\ProText\NETCORE.Swagger\NETCORE.Swagger\bin\Debug\netcoreapp2.1\NETCORE.Swagger.pdb
+F:\ProText\NETCORE.Swagger\NETCORE.Swagger\obj\Debug\netcoreapp2.1\NETCORE.Swagger.dll
+F:\ProText\NETCORE.Swagger\NETCORE.Swagger\obj\Debug\netcoreapp2.1\NETCORE.Swagger.pdb
+F:\ProText\NETCORE.Swagger\NETCORE.Swagger\bin\Debug\netcoreapp2.1\WebApplication2.xml
