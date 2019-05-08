@@ -1,0 +1,10 @@
+F:\ProText\NET.Vony.Html.AIO\NET.Vony.Html.AIO\bin\Debug\NET.Vony.Html.AIO.exe.config
+F:\ProText\NET.Vony.Html.AIO\NET.Vony.Html.AIO\bin\Debug\NET.Vony.Html.AIO.exe
+F:\ProText\NET.Vony.Html.AIO\NET.Vony.Html.AIO\bin\Debug\NET.Vony.Html.AIO.pdb
+F:\ProText\NET.Vony.Html.AIO\NET.Vony.Html.AIO\bin\Debug\Ivony.Html.AIO.dll
+F:\ProText\NET.Vony.Html.AIO\NET.Vony.Html.AIO\bin\Debug\Ivony.Html.AIO.xml
+F:\ProText\NET.Vony.Html.AIO\NET.Vony.Html.AIO\obj\Debug\NET.Vony.Html.AIO.csprojAssemblyReference.cache
+F:\ProText\NET.Vony.Html.AIO\NET.Vony.Html.AIO\obj\Debug\NET.Vony.Html.AIO.csproj.CoreCompileInputs.cache
+F:\ProText\NET.Vony.Html.AIO\NET.Vony.Html.AIO\obj\Debug\NET.Vony.Html.AIO.csproj.CopyComplete
+F:\ProText\NET.Vony.Html.AIO\NET.Vony.Html.AIO\obj\Debug\NET.Vony.Html.AIO.exe
+F:\ProText\NET.Vony.Html.AIO\NET.Vony.Html.AIO\obj\Debug\NET.Vony.Html.AIO.pdb
