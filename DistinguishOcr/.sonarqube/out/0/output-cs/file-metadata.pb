@@ -1,0 +1,17 @@
+;
+9F:\ProText\DistinguishOcr\DistinguishOcr\Common\Class1.csF
+DF:\ProText\DistinguishOcr\DistinguishOcr\Common\DistinguishConfig.cs@
+>F:\ProText\DistinguishOcr\DistinguishOcr\Common\CommonClass.cs6
+4F:\ProText\DistinguishOcr\DistinguishOcr\FormBase.csA
+=F:\ProText\DistinguishOcr\DistinguishOcr\FormBase.Designer.cs5
+3F:\ProText\DistinguishOcr\DistinguishOcr\Program.csE
+CF:\ProText\DistinguishOcr\DistinguishOcr\Properties\AssemblyInfo.cs=
+;F:\ProText\DistinguishOcr\DistinguishOcr\UserControlFile.csH
+DF:\ProText\DistinguishOcr\DistinguishOcr\UserControlFile.Designer.cs@
+>F:\ProText\DistinguishOcr\DistinguishOcr\UserControlInvoice.csK
+GF:\ProText\DistinguishOcr\DistinguishOcr\UserControlInvoice.Designer.csA
+?F:\ProText\DistinguishOcr\DistinguishOcr\UserControlRegister.csL
+HF:\ProText\DistinguishOcr\DistinguishOcr\UserControlRegister.Designer.csM
+IF:\ProText\DistinguishOcr\DistinguishOcr\Properties\Resources.Designer.csL
+HF:\ProText\DistinguishOcr\DistinguishOcr\Properties\Settings.Designer.cs[
+WC:\Users\lihongyuan\AppData\Local\Temp\.NETFramework,Version=v4.6.AssemblyAttributes.cs

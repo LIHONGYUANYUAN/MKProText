@@ -1,0 +1,10 @@
+B
+9F:\ProText\DistinguishOcr\DistinguishOcr\Common\Class1.csutf-8M
+DF:\ProText\DistinguishOcr\DistinguishOcr\Common\DistinguishConfig.csutf-8G
+>F:\ProText\DistinguishOcr\DistinguishOcr\Common\CommonClass.csutf-8=
+4F:\ProText\DistinguishOcr\DistinguishOcr\FormBase.csutf-8<
+3F:\ProText\DistinguishOcr\DistinguishOcr\Program.csutf-8L
+CF:\ProText\DistinguishOcr\DistinguishOcr\Properties\AssemblyInfo.csutf-8D
+;F:\ProText\DistinguishOcr\DistinguishOcr\UserControlFile.csutf-8G
+>F:\ProText\DistinguishOcr\DistinguishOcr\UserControlInvoice.csutf-8H
+?F:\ProText\DistinguishOcr\DistinguishOcr\UserControlRegister.csutf-8

@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script src="od.js"></script>
+    <script src="jszip.js"></script>
+    <script src="xlsx.js"></script>
+
+<script type="text/javascript"> 
+
+    function addLis() {
+        var xlf = document.getElementById('xlf');
+        var drop = document.getElementById('drop');
+        drop.addEventListener("dragenter", handleDragover, false);
+        drop.addEventListener("dragover", handleDragover, false);
+        drop.addEventListener("drop", onDropDown, false);
+        if (xlf.addEventListener) xlf.addEventListener('change', handleFile, false);
+    }
+
+    addLis();
+
+    function handleDragover(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        e.dataTransfer.dropEffect = 'copy';
+    }
+
+    function onDropDown(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        var files = e.dataTransfer.files;
+        var f = files[0];
+        readFile(f);
+    }
+
+    function handleFile(e) {
+        var files = e.target.files;
+        var f = files[0];
+        readFile(f);
+    }
+
+    function readFile(file) {
+
+        var name = file.name;
+        var reader = new FileReader();
+        reader.onload = function (e) {
+            var data = e.target.result;
+            var wb = XLSX.read(data, { type: "binary" });
+            console.log(wb);
+        };
+        reader.readAsBinaryString(file);
+    }
+</script>
+
+</head>
+
+
+<body>
+    <body>
+        <div id="drop">Drop an XLSX / XLSM / XLSB / ODS / XLS / XML file here to see sheet data</div>
+        <p><input type="file" name="xlfile" id="xlf" /> ... or click here to select a file</p>
+    </body>
+</body>
+</html>

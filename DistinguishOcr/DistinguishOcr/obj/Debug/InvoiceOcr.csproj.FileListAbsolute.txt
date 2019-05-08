@@ -1,0 +1,16 @@
+F:\ProText\InvoiceOcr\InvoiceOcr\obj\Debug\InvoiceOcr.csprojAssemblyReference.cache
+F:\ProText\InvoiceOcr\InvoiceOcr\obj\Debug\InvoiceOcr.Properties.Resources.resources
+F:\ProText\InvoiceOcr\InvoiceOcr\obj\Debug\InvoiceOcr.csproj.GenerateResource.cache
+F:\ProText\InvoiceOcr\InvoiceOcr\obj\Debug\InvoiceOcr.csproj.CoreCompileInputs.cache
+F:\ProText\InvoiceOcr\InvoiceOcr\bin\Debug\InvoiceOcr.exe
+F:\ProText\InvoiceOcr\InvoiceOcr\bin\Debug\InvoiceOcr.pdb
+F:\ProText\InvoiceOcr\InvoiceOcr\obj\Debug\InvoiceOcr.exe
+F:\ProText\InvoiceOcr\InvoiceOcr\obj\Debug\InvoiceOcr.pdb
+F:\ProText\InvoiceOcr\InvoiceOcr\obj\Debug\InvoiceOcr.FormIoc.resources
+F:\ProText\InvoiceOcr\InvoiceOcr\bin\Debug\AipSdk.dll
+F:\ProText\InvoiceOcr\InvoiceOcr\bin\Debug\Newtonsoft.Json.dll
+F:\ProText\InvoiceOcr\InvoiceOcr\bin\Debug\AipSdk.pdb
+F:\ProText\InvoiceOcr\InvoiceOcr\bin\Debug\AipSdk.xml
+F:\ProText\InvoiceOcr\InvoiceOcr\obj\Debug\InvoiceOcr.csproj.CopyComplete
+F:\ProText\InvoiceOcr\InvoiceOcr\obj\Debug\InvoiceOcr.Form1.resources
+F:\ProText\InvoiceOcr\InvoiceOcr\obj\Debug\InvoiceOcr.UserControl1.resources
